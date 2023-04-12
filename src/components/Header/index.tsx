@@ -19,7 +19,7 @@ const titleCss = css({
 export default function Header(){
   
   const find = (text: string) => {
-
+    console.log(text);
   }
   
   return (
